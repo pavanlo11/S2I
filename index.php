@@ -5,7 +5,7 @@
 <h1>My First PHP Page</h1>
 
 <?php
-echo "Hello LinkedIn family! Application V1.0";
+echo "Hello LinkedIn family! Application V1.1";
 ?>
 
 </body>
